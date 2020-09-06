@@ -18,6 +18,14 @@
 ### The < sup > element is used to contain characters that should be superscript such as the suffixes of dates or mathematical concepts like raising a number to a power.
 ## < sub >
 ### The < sub > element is used to contain characters that should be subscript. It is commonly used with foot notes or chemical formulas such.
-
+![sub and sup](https://user-images.githubusercontent.com/70091044/92334176-47e16000-f094-11ea-9c30-001c8712d432.PNG)
+## White Space
+### In order to make code easier to read, web page authors often add extra spaces or start some elements on new lines.
+### When the browser comes across two or more spaces next to each other, it only displays one space. Similarly if it comes across a line break, it treats that as a single space too. This is known as white space collapsing.
+## Line Breaks & Horizontal Rules
+## < br />
+### As you have already seen, the browser will automatically show each new paragraph or heading on a new line. But if you wanted to add a line break inside the middle of a paragraph you can use the line break tag < br />.
+## < hr />
+### To create a break between themes — such as a change of topic in a book or a new scene in a play — you can add a horizontal rule between sections using the < hr /> tag.
 
 
